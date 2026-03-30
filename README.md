@@ -3,10 +3,10 @@
 <!-- ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&text=Sharif%20Mohammad%20Nasrullah&fontSize=36&fontColor=E6EDF3&fontAlignY=35&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Builder&descSize=16&descColor=8B949E&descAlignY=55&animation=fadeIn" width="100%"/>
 
-<br><br>
+<br>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+Enterprise+Software+Since+Age+17;Healthcare+%E2%80%A2+Fintech+%E2%80%A2+Education+%E2%80%A2+E-Commerce+%E2%80%A2+AI;Self-Hosted+Infrastructure+%7C+Zero+PaaS+Lock-in" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=19+years+old+%7C+29%2B+Production+Systems+Shipped;Building+Enterprise+Software+Since+Age+17;Healthcare+%E2%80%A2+Fintech+%E2%80%A2+Education+%E2%80%A2+E-Commerce+%E2%80%A2+AI" alt="Typing SVG" /></a>
 
 <br>
 
