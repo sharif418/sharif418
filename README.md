@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- CUSTOM BANNER -->
-<img src="./assets/banner.png" width="100%" alt="Sharif Mohammad Nasrullah — Full Stack Engineer • Systems Architect"/>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&text=Sharif%20Mohammad%20Nasrullah&fontSize=36&fontColor=E6EDF3&fontAlignY=35&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Builder&descSize=16&descColor=8B949E&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <br><br>
 
